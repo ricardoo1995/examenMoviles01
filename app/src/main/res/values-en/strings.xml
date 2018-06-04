@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Patients and medications</string>
+    <string name="medicamento">Medication</string>
+    <string name="patient">Author</string>
+    <string name="details_btn">Details</string>
+    <string name="create_btn">Save</string>
+    <string name="create">Create</string>
+    <string name="list_btn">List</string>
+    <string name="new_btn">New</string>
+    <string name="menu_edit">Edit</string>
+    <string name="menu_delete">Delete</string>
+    <string name="menu_share">Share</string>
+    <string name="details_paciente">Details Patient</string>
+    <string name="create_paciente">Create Patient</string>
+    <string name="edit_paciente">Edit Patient</string>
+    <string name="details_medicamento">Details Medicament</string>
+    <string name="create_medicamento">Create Medicament</string>
+    <string name="edit_medicamento">Edit Medicament</string>
+    <string name="medicamento_listt">List Medicament</string>
+    <string name="name">Name:</string>
+    <string name="last_name">Last Name:</string>
+    <string name="fecha_nacimiento">Birth Day:</string>
+    <string name="numero_hijos">Number of Children:</string>
+    <string name="tiene_seguro">Have insurance:</string>
+    <string name="gramos_a_ingerir">Grams to Ingest:</string>
+    <string name="composicion">Composition:</string>
+    <string name="usado_para">Used for:</string>
+    <string name="fecha_caducidad">Date of Expiry:</string>
+    <string name="numero_pastillas">Number of Pills:</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="confirmation">Are you sure you want to delete?</string>
+</resources>

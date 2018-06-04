@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Pacientes y medicamentos</string>
+    <string name="medicamento">Medicamento</string>
+    <string name="paciente">Paciente</string>
+    <string name="details_btn">Detalles</string>
+    <string name="create_btn">Guardar</string>
+    <string name="create">Crear</string>
+    <string name="list_btn">Listar</string>
+    <string name="new_btn">Nuevo</string>
+    <string name="menu_edit">Editar</string>
+    <string name="menu_delete">Eliminar</string>
+    <string name="menu_share">Compartir</string>
+    <string name="details_paciente">Detalles Paciente</string>
+    <string name="create_paciente">Creacion Paciente</string>
+    <string name="edit_paciente">Editar Paciente</string>
+    <string name="details_medicamento">Detalles Medicamento</string>
+    <string name="create_medicamento">Creacion Medicamento</string>
+    <string name="edit_medicamento">Editar Medicamento</string>
+    <string name="medicamento_listt">Lista Medicamento</string>
+    <string name="name">Nombre:</string>
+    <string name="last_name">Apellido:</string>
+    <string name="fecha_nacimiento">Fecha Nacimiento:</string>
+    <string name="numero_hijos">Numero Hijos:</string>
+    <string name="tiene_seguro">Tiene Seguro:</string>
+    <string name="gramos_a_ingerir">Gramos a ingerir:</string>
+    <string name="composicion">Composicion:</string>
+    <string name="usado_para">Usado Para:</string>
+    <string name="fecha_caducidad">Fecha Caducidad:</string>
+    <string name="numero_pastillas">Numero Pastillas:</string>
+    <string name="yes">Si</string>
+    <string name="no">No</string>
+    <string name="confirmation">Seguro desea eliminar?</string>
+</resources>
