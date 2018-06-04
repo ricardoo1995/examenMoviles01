@@ -1,4 +1,4 @@
-package com.example.frani.examen1moviles
+package com.example.Ricardo.examenMoviles01
 
 import android.content.Intent
 import android.support.v7.app.AppCompatActivity
@@ -9,7 +9,6 @@ import android.support.v7.widget.LinearLayoutManager
 import android.util.Log
 import android.view.MenuItem
 import android.view.View
-import kotlinx.android.synthetic.main.activity_create_medicamento.view.*
 import kotlinx.android.synthetic.main.activity_details.*
 
 class DetailsActivity : AppCompatActivity() {

@@ -1,4 +1,4 @@
-package com.example.frani.examen1moviles
+package com.example.Ricardo.examenMoviles01
 
 import org.junit.Test
 

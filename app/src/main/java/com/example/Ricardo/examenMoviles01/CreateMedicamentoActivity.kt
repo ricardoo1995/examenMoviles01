@@ -1,4 +1,4 @@
-package com.example.frani.examen1moviles
+package com.example.Ricardo.examenMoviles01
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
