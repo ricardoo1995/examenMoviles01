@@ -85,7 +85,7 @@ class DBPacienteHandlerAplicacion(context: Context) : SQLiteOpenHelper(context, 
                 val apellido = resultado.getString(2)
                 val fechaNacimiento = resultado.getString(3)
                 val numeroHijos = resultado.getString(4).toInt()
-                val tieneSeguro = resultado.getString(5).toInt()
+                val tieneSeguro = resultado.getString(5).toBoolean()
 
                 lista.add(Paciente(id, nombre, apellido, fechaNacimiento, numeroHijos, tieneSeguro))
             } while (resultado.moveToNext())
